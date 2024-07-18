@@ -123,6 +123,7 @@ ul.names li {
   padding-left: 1em;
   text-indent: -.7em;
   margin-bottom: .3em;
+  color: rgba(20, 153, 84,1);
 }
 
 ul.names li:before {
