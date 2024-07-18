@@ -139,7 +139,7 @@ ul.names span.name a {
 }
 
 ul.names span.name a:hover {
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 ul.nameso {
@@ -154,22 +154,22 @@ ul.nameso li {
   margin-bottom: .3em;
 }
 
-ul.nameso span.name {
-  font-weight: normal;
-}
 
 ul.nameso li:before {
   content: "• ";
   color: bLack;
 }
 
+ul.nameso span.name {
+  font-weight: normal;
+}
 
 ul.nameso span.name a {
   text-decoration: none;
 }
 
 ul.nameso span.name a:hover {
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 ul#logos {
