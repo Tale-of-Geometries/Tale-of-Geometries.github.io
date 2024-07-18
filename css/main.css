@@ -132,6 +132,7 @@ ul.names li:before {
 
 ul.names span.name {
   font-weight: bold;
+  color: rgb(20, 153, 84);
 }
 
 ul.names span.name a {
