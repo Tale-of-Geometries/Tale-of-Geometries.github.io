@@ -142,6 +142,32 @@ ul.names span.name a:hover {
   text-decoration: underline;
 }
 
+ul.nameso {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+ul.nameso li {
+  padding-left: 1em;
+  text-indent: -.7em;
+  margin-bottom: .3em;
+}
+
+ul.nameso li:before {
+  content: "• ";
+  color: bLack;
+}
+
+
+ul.nameso span.name a {
+  text-decoration: none;
+}
+
+ul.nameso span.name a:hover {
+  text-decoration: underline;
+}
+
 ul#logos {
   list-style-type: none;
   text-align: center;
