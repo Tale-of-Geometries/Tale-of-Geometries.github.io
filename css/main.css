@@ -99,9 +99,9 @@ dl.schedule dd {
   margin-left: 8em;
 }
 
-dl.schedule dd.title {
-  font-weight: bold;
-}
+%dl.schedule dd.title {
+%  font-weight: bold;
+%}
 
 %dl.schedule dd.speaker span.name,
 %p.speaker span.name {
