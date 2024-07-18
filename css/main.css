@@ -87,30 +87,11 @@ blockquote {
   margin: 0;
 }
 
+{%
 dl.schedule {
 }
 
-dl.schedule dt {
-  height: 0;
-  width: 7em;
-}
 
-dl.schedule dd {
-  margin-left: 8em;
-}
-
-%dl.schedule dd.title {
-%  font-weight: bold;
-%}
-
-%dl.schedule dd.speaker span.name,
-%p.speaker span.name {
-%  font-style: italic;
-%}
-
-%dl.schedule dd.abstract {
-%  margin: 1em 0;
-%}
 
 ul.names {
   list-style-type: none;
