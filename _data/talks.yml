@@ -1,0 +1,195 @@
+auroux:
+  title: Fukaya categories and functoriality in mirror symmetry
+  speaker: auroux
+  abstract: >
+    <p>The general theme of this talk will be functoriality in homological mirror symmetry, i.e. situations where naturally occurring functors between various types of Fukaya categories correspond under mirror symmetry to classical functors (induced by inclusions and projections) between derived categories of coherent sheaves (or matrix factorizations). The running examples will be very affine hypersurfaces on one side of mirror symmetry, and toric Calabi-Yau varieties on the other side. This talk is based on joint work with Abouzaid and Katzarkov, as well as work of Gammage and Jeffs.</p>
+  video: https://www.youtube.com/watch?v=gmZwGjAIt2A
+
+bezrukavnikov:
+  title: Coherent sheaves on the Hilbert scheme of points, revisited
+  speaker: bezrukavnikov
+  abstract: >
+    <p>I will present results and conjectures relating commutative and noncommutative resolutions of symplectic singularities to stability conditions and to constructible and microlocal sheaves, with emphasis on the Hilbert scheme of points on the plane.
+  video: https://www.youtube.com/watch?v=Wh2BRR4OH9g
+
+calaque:
+  title: Comparing Calabi-Yau and quasi-bisymplectic structures for multiplicative preprojective algebras
+  speaker: calaque
+  abstract: >
+    <p>Multiplicative preprojective algebras first appeared in the work of Crawley-Boevey and Shaw, in the course of their study of the Deligne-Simpson problem. Their representation varities, known as multiplicative quiver varieties, naturally appear in various areas (character varieties, local systems on Riemann surfaces and perverse sheaves on nodal curves, integrable systems, etc...). Michel proved that these varieties can be obtained using a quasi-Hamiltonian reduction procedure (after Alekseev-Malkin-Meinreinken), and developed a noncommutative version of the quasi-Hamiltonian formalism so that all constructions actually hold directly at the level of the multiplicative preprojective algebras. In this talk I will explain explain that the moment map defining these multiplicative preprojective algebras carry a relative Calabi-Yau structure (a notion introduced by Brav and Dyckerhoff, following some earlier suggestion of Toën), and how the three notions (quasi-Hamiltonian structures, their non-commutative version, and relative Calabi-Yau structures) interact.
+    <p>The talk is based on joint works with Tristan Bozec and Sarah Scherotzke.
+  video: https://www.youtube.com/watch?v=Qobfnl3lA84
+
+gasparim:
+  title: Mirrors of adjoint orbits and deformations
+  speaker: gasparim
+  abstract: >
+    <p>I will discuss mirror symmetry for adjoint orbits and make some comparisons with mirrors of their families of deformations.
+    In particular, I will describe the Fukaya category of a symplectic Landau-Ginzburg model that does not have any projective mirrors
+    in the sense of an equivalent category of coherent sheaves, and then change the mirror recipe so as to obtain an algebraic mirror
+    using Orlov's category of singularities.
+  notes: gasparim.pdf
+  video: https://www.youtube.com/watch?v=KgGHMYPDglk
+
+gualtieri:
+  title: Generalized Kähler metrics and double symplectic groupoids
+  speaker: gualtieri
+  abstract: >
+    <p>Generalized Kähler manifolds, which arise as natural target spaces for supersymmetric 2-dimensional sigma models, provide a rich family of examples to which many of the tools of Poisson geometry may be applied.  After reviewing their basic structure, I will explain a new appearance of double groupoids and double Morita equivalences in the story. This is joint work with Yucong Jiang (Toronto) and Daniel Alvarez (Toronto).
+  notes: gualtieri-2.pdf
+  video: https://youtu.be/-MjLfqvoNdQ
+
+halpernleistner:
+  title: The noncommutative minimal model program
+  speaker: halpernleistner
+  abstract: >
+    <p>There are many situations in which the derived category of coherent sheaves on a smooth projective variety admits a semiorthogonal decomposition that reflects something interesting about its geometry. I will present a new unifying framework for studying these semiorthogonal decompositions using Bridgeland stability conditions. Then, I will formulate some conjectures about canonical flows on the space of stability conditions that imply several important conjectures on the structure of derived categories, such as the D-equivalence conjecture and Dubrovin's conjecture.
+  video: https://youtu.be/7ucS2yRsFbc
+  notes: halpernleistner.pdf
+
+kaledin:
+  title: Non-commutative cristalline cohomology
+  speaker: kaledin
+  abstract: >
+    <p>I am going to give an overview of several recent constructions of non-commutative versions of cristalling cohomology for DG algebras over a finite field (namely, a construction of Vologodsky and Petrov, and another construction of Tsygan-Nest). If time permits, I will also add some speculations as to what might be a possible counterpart of these constructions in characteristic zero.
+  video: https://www.youtube.com/watch?v=Ey5Cv0iL3Cs
+
+kapranov:
+  title: Perverse sheaves and schobers on symmetric products.
+  speaker: kapranov
+  abstract: >
+    <p>The talk, based on joint work in progress with V. Schechtman, will first recall our description of perverse sheaves on $\mathrm{Sym}^n(\mathbb{C})$, the symmetric product of the complex line with its natural stratification by multiplicities. This description proceeds in terms of contingency matrices, which are certain integer matrices appearing (besides their origin in statistics) in three different contexts:
+    <ul>
+    <li>A natural cell decomposition of $\mathrm{Sym}^n(\mathbb{C})$.
+    <li>Compatibility of multiplication and comlultiplication in $\mathbb{Z}_+$-graded Hopf algebras.
+    <li>Parabolic Bruhat decomposition for $\mathrm{GL}_n$.
+    </ul>
+    <p>Perverse sheaves on $\mathrm{Sym}^n(\mathbb{C})$ are described in terms of certain data of mixed functoriality on contingency matrices which we call Janus sheaves. I will then explain our approach to categorifying the concept of Janus sheaves, in which sums are replaced by filtrations with respect to the Bruhat order. Such data can be called Janus schobers. Examples can be obtained from $\mathbb{Z}_+$-graded Hopf categories, a concept going back to Crane-Frenkel, of which we consider two examples related to representations of groups $\mathrm{GL}_n$ over finite fields (Joyal-Street) and p-adic fields (Bernstein-Zelevinsky).
+  video: https://www.youtube.com/watch?v=CEhcFGPO4ZU
+
+keller:
+  title: On Amiot's conjecture
+  speaker: keller
+  abstract: >
+    <p>In 2010, Claire Amiot conjectured that algebraic 2-Calabi-Yau categories with cluster-tilting object must come from quivers with potential. This would extend a structure theorem obtained with Idun Reiten in the case where the endomorphism algebra of the cluster-tilting object is hereditary. Many other classes of examples are also known. We will report on recent progress in the general case obtained in joint work with Junyang Liu and based on Van den Bergh's structure theorem for complete Calabi-Yau algebras.
+  notes: keller.pdf
+  video: https://www.youtube.com/watch?v=66cLtvvH3tY
+
+kuznetsov:
+  title: Categorical absorption of singularities
+  speaker: kuznetsov
+  abstract: >
+    <p>Resolution of singularities from the categorical point of view is an  operation that replaces the derived category of a singular variety by a bigger smooth and proper triangulated category. Absorption of singularities, on a contrary, replaces the derived category of a singular variety by a smaller smooth and proper triangulated category. In the talk I will introduce $\mathbb{P}^\infty$-objects and show how they can be used to absorb singularities of nodal varieties.
+  video: https://youtu.be/F_Ef_Ll3UHU
+
+neeman:
+  title: Bounded t-structures on the category of perfect complexes
+  speaker: neeman
+  abstract: >
+    <p>Van den Bergh's work has greatly influenced mine. The talk will begin with a couple of papers by Van den Bergh that I am much indebted to, and then explain how the proof of a new result, about the non-existence of bounded t-structures on the category of perfect complexes on a scheme $X$, owes the key ideas to these papers by Van den Bergh.
+  notes: neeman.pdf
+  video: https://www.youtube.com/watch?v=w9bjxbZGrE8
+
+padurariu:
+  title:  Categorical Donaldson-Thomas theory of $\mathbb{C}^3$
+  speaker: padurariu
+  abstract: >
+    <p>I will explain some results in categorical Donaldson-Thomas theory of $\mathbb{C}^3$. An important construction is that of quasi-BPS categories, which are a categorical approximation of BPS (also called Gopakumar-Vafa) invariants in enumerative geometry. Quasi-BPS categories are categories of matrix factorizations on certain (twisted) noncommutative resolutions of singularities constructed by Špenko-Van den Bergh. We expect quasi-BPS categories to be indecomposable.
+    <p>We construct semiorthogonal decompositions of the derived category of coherent sheaves on the stack of commuting matrices (alternatively, the Hall algebra of $\mathbb{C}^2$) and of a categorification of Donaldson-Thomas invariants of $\mathbb{C}^3$ using quasi-BPS categories. We compute (versions of) the K-theory of quasi-BPS categories. Along the way, we propose a K-theoretic version for $\mathbb{C}^3$ of the Bridgeland-King-Reid and Haiman theorem that the Hilbert scheme of d points on $\mathbb{C}^2$ is derived equivalent to the orbifold $\mathbb{C}^{2d}/\mathfrak{S}_d$.
+    <p>This is joint work with Yukinobu Toda.
+  video: https://www.youtube.com/watch?v=9gUESEXTtio
+
+perry:
+  title: Noncommutative Enriques surfaces
+  speaker: perry
+  abstract: >
+    <p>Noncommutative K3 surfaces have been intensely studied in recent years, especially in connection to cubic fourfolds and hyperkahler geometry. I will discuss a closely related story for noncommutative Enriques surfaces associated to certain Fano threefolds. In particular, I will explain the resolution of a conjecture of Kuznetsov relating these noncommutative surfaces for different types of Fano threefolds, as well as structural results about their moduli spaces of stable objects. This is based on joint works with Arend Bayer and with Laura Pertusi and Xiaolei Zhao.
+  notes: perry.pdf
+  video: https://youtu.be/-T2WvYZQJmU
+
+polishchuk:
+  title: Bihamiltonian Feigin-Odesskii structures
+  speaker: polishchuk
+  abstract: >
+    <p>This talk is based on joint works with Zheng Hua and Nikita Markarian.
+    We consider Poisson brackets on projective spaces arising from vector bundles on elliptic curves.
+    We construct examples of compatible Poisson brackets of this type from exceptional bundles on surfaces.
+    In the case of Poisson brackets associated with line bundles we give a geometric criterion of compatibility between the brackets.
+  notes: polishchuk.pdf
+  video: https://www.youtube.com/watch?v=mL20oO8_HS4
+
+rizzardo:
+  title: Non-Fourier-Mukai functors and counterexamples in algebraic geometry
+  speaker: rizzardo
+  abstract: >
+    <p>Exact functors between two triangulated categories are a fundamental object of study. Almost all known such functors are so-called Fourier-Mukai: they admit a lift to a functor between enhancements of the two triangulated categories. However, by now we know that non-Fourier-Mukai functors do exist, and they are a prolific source of counterexamples in algebraic geometry.
+    <p>In this talk I will review the construction of a non-Fourier-Mukai functor that was originally given by Michel Van den Bergh and myself, and discuss how this construction can be enhanced, generalized, and used to construct several kinds of counterexamples. Part of this talk is joint work with Michel Van den Bergh.
+  video: https://youtu.be/5fcCGYlHeGo
+
+sierra:
+  title: Blowing down noncommutative cubic surfaces
+  speaker: sierra
+  abstract: >
+    <p>Let $A = A(E,\sigma)$ be the Sklyanin algebra associated to an elliptic curve $E$ and a translation automorphism $\sigma$ of $E$. It is well-known that $A$ can be considered as the coordinate ring of a "noncommutative $\mathbb{P}^2$", and there are analogues of classical results on birational transformations of (commutative) surfaces. In particular, Van den Bergh, and separately Rogalski, have given methods to blow up A at a collection of points on the curve $E$. Further, Van den Bergh has shown that the blowup of $A$ at 6 points is isomorphic to the coordinate ring of a cubic surface in a noncommutative $\mathbb{P}^2$, giving a noncommutative version of a well-known classical result.
+    <p>We consider the converse problem: is a noncommutative cubic surface always isomorphic to the 6-point blowup of a Sklyanin algebra? Using noncommutative intersection theory and the Castelnuovo contraction criterion of the author, Rogalski, and Stafford, we show that this is generically true. We further discuss the geometry of various moduli spaces associated to this situation.
+    <p>This is joint work with Ingalls, Okawa, and Van den Bergh.
+  video: https://www.youtube.com/watch?v=3tVmuBR_vWY
+
+stafford:
+  title: Invariant holonomic systems for symmetric spaces
+  speaker: stafford
+  abstract: >
+    <p>Fix a complex reductive Lie group $G$ with Lie algebra $\mathfrak{g}$ and let $V$ be a symmetric space over $\mathfrak{g}$ with ring of differential operators $\mathcal{D}(V)$. A fundamental class of $\mathcal{D}(V)$-modules consists of the <em>admissible modules</em> (these are natural analogues of highest weight $\mathfrak{g}$-modules). In this lecture I will describe the structure of some important admissible modules. In particular, when $V=\mathfrak{g}$ these results reduce to give Harish-Chandra's regularity theorem for $G$-equivariant eigendistributions and imply results of Hotta and Kashiwara on invariant holonomic systems. If I have time I will describe extensions of thes results to the more general polar $\mathfrak{g}$-representations.
+    <p>A key technique is relating (the admissible module over) invariant differential operators $\mathcal{D}(V)^G$ on $V$ to (highest weight modules over) Cherednik algebras.
+    <p>This research is joint with Bellamy, Levasseur and Nevins.
+  video: https://www.youtube.com/watch?v=zQNtCMzbUqI
+
+stroppel:
+  title: Convolution algebras via Chow groups
+  speaker: stroppel
+  abstract: >
+    <p>In this talk we connect algebras arising in geometric representation theory and categorification with Chow motives. The main tool is hereby tilting objects and weight complex functors.
+  notes: stroppel.pdf
+  video: https://youtu.be/9Sw0Sdd51L8
+
+tabuada:
+  title: Grothendieck classes of quadric hypersurfaces and involution varieties
+  speaker: tabuada
+  abstract: >
+    <p>The Grothendieck ring of varieties, introduced in a letter from Alexander Grothendieck to Jean-Pierre Serre (August 16th 1964), plays an important role in algebraic geometry. However, despite the efforts of several mathematicians, the structure of this ring still remains poorly understood. In this talk, in order to better understand the Grothendieck ring of varieties, I will describe some new structural properties of the Grothendieck classes of quadric hypersurfaces and involution varieties. More specifically, by combining the recent theory of noncommutative motives with the classical theory of motives, I will show that if two quadric hypersurfaces (or, more generally, two involution varieties) have the same Grothendieck class, then they have the same even Clifford algebra and the same signature. As an application, this implies in numerous cases (e.g., when the base field is a local or global field) that two quadric hypersurfaces (or, more generally, two involution varieties) have the same Grothendieck class if and only if they are isomorphic.
+  video: https://youtu.be/sRtYuq1QRXs
+
+taelman:
+  title: Deformations of Calabi–Yau varieties in mixed characteristic
+  speaker: taelman
+  abstract: >
+    <p>We study deformations of smooth projective varieties with trivial canonical bundle in positive and mixed characteristic. We show that (under suitable hypotheses) these are unobstructed. This is an analogue to the Bogomolov-Tian-Todorov theorem (in characteristic zero). We also show that “ordinary” varieties with trivial canonical bundle admit a preferred "canonical lift" to characteristic zero. This generalizes results of Serre-Tate (for abelian varieties) and Deligne (for K3 surfaces). Our proofs rely in an essential way on “derived” deformation theory as developed by Pridham and Lurie.
+    <p>This is joint work with Lukas Brantner.
+
+tsygan:
+  title: Noncommutative crystalline cohomology
+  speaker: tsygan
+  abstract: >
+    <p>In characteristic zero, a good noncommutative generalization of De Rham cohomology of an algebraic variety is periodic cyclic homology of as associative algebra. In positive or mixed  characteristic, to get a truly general noncommutative generalization of various types of cohomology of schemes, one has to use topological versions of Hochschild and cyclic theory. However, quite a bit could be stated using variations on the usual definitions. I will review four recent constructions: one, by Kaledin, based on noncommutative Witt vectors; another, by Petrov and Vologodsky, based on derived periodic cyclic homology and the Gauss-Manin connection; one by myself, based on operations on cyclic complexes; and one by Cortinas-Cuntz-Meyer-Tamme, based on non-Archimedean topological/bornological methods.
+  video: https://youtu.be/wWcuMwPSZl0
+
+vezzosi:
+  title: An analog of the Beilinson-Drinfeld Grassmannian for surfaces
+  speaker: vezzosi
+  abstract: >
+    <p>Fix an affine algebraic group $G$ over the complex numbers, and a proper smooth complex surface $X$.
+    We can attach to a family of flags of closed subschemes in $X$ (parametrized by a scheme $S$) a generalization of
+    the Beilinson-Drinfeld Grassmannian of $G$-bundles.
+    The union of flags induces a simplicial structure that turns out to be 2-Segal,
+    thus giving rise to a fusion monoidal structure on sheaves on this Grassmannian
+    that also carries a flat connection and actions of suitable generalizations of the loop and positive loop groups.
+    Time permitting, I will discuss the factorization property and some future directions.
+    This is joint work with Benjamin Hennion and Valerio Melani.
+  video: https://www.youtube.com/watch?v=_zOnwAjZQBQ
+
+wemyss:
+  title: Spherical objects in dimension 2 and 3
+  speaker: wemyss
+  abstract: >
+    <p>I will explain how to classify spherical objects in various settings (Kleinian singularities, 3-fold flops) using simple modules for the corresponding noncommutative resolution. The main result is much more general, and also more surprising: in the null category $\mathcal{C}$, (1) all objects with no negative Ext groups belong to the heart of a bounded t-structure, and (2) the objects with no negative Ext groups, and whose self-Hom is one-dimensional, are precisely the simples.  In fact, we can even classify all bounded t-structures on $\mathcal{C}$. There are various geometric corollaries. The main technique also works for finite dimensional algebras, where in the derived category of a silting discrete algebra, every semibrick complex can be completed to a simple minded collection.  This is all joint work with Wahei Hara.
+  video: https://www.youtube.com/watch?v=kk-Y7Vt2EVk

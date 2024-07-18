@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+<h2>Abstracts</h2>
+<ul class="names">
+{% for talk_id in site.data.talks %}
+  {% assign talk = talk_id[1] %}
+  {% assign speaker = site.data.speakers[talk.speaker] %}
+  <li>{{ speaker.name }}: <a href="#{{ talk.speaker }}">{{ talk.title }}</a>
+{% endfor %}
+</ul>
+<hr>
+
+{% for talk_id in site.data.talks %}
+{% assign talk = talk_id[1] %}
+  <section id="{{ talk.speaker }}">
+    <h3 class="title">{% if talk.title %} {{ talk.title }} {% else %} <i>to be announced</i> {% endif %}</h3>
+
+    {% assign speaker = site.data.speakers[talk.speaker] %}
+    <p class="speaker"><span class="name">{{ speaker.name }}</span> (<span class="affiliation">{{ speaker.affiliation }}</span>)
+
+    {% if talk.abstract %}
+      <blockquote>{{ talk.abstract }}</blockquote>
+    {% endif %}
+
+    {% if talk.notes %}<a href="/assets/{{ talk.notes }}">notes</a>{% endif %}
+    {% if talk.video %}<br><a href="{{ talk.video }}">video</a>{% endif %}
+  </section>
+  <hr>
+{% endfor %}

@@ -1,0 +1,178 @@
+html {
+}
+
+body {
+  font-family: "Open Sans", serif;
+  font-size: .9em;
+  margin: 0;
+}
+
+div#mountain {
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  z-index: -1;
+  opacity: 1;
+  background-color: #ffffff;
+  background-image: url("../kite.jpg");
+  background-repeat: no-repeat;
+  background-size: 50%;
+  background-position: top right;
+  background-attachment: fixed;
+}
+
+div#content {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+a {
+  color: black;
+}
+
+hr {
+  border: 0;
+  height: 2px;
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 61, 100, 0.6), rgba(0, 0, 0, 0));
+}
+
+
+nav {
+  font-size: 1em;
+  margin: -5px;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+nav a {
+  color: black;
+  text-decoration: none;
+  height: 100%;
+  padding: .5em;
+  display: block;
+}
+
+nav li:hover a {
+  text-decoration: underline;
+}
+
+nav ul {
+  padding: 0;
+}
+
+nav li {
+  display: inline-block;
+  background-color: rgba(120,120,120,0.2);
+  margin-right: 5px;
+  margin-bottom: 4px;
+}
+
+nav li:hover {
+  background-color: rgba(120,120,120,0.4);
+}
+
+
+h2 {
+  font-size: 1.3em;
+}
+
+h3 {
+  color: black;
+}
+
+blockquote {
+  margin: 0;
+}
+
+dl.schedule {
+}
+
+dl.schedule dt {
+  height: 0;
+  width: 7em;
+}
+
+dl.schedule dd {
+  margin-left: 8em;
+}
+
+dl.schedule dd.title {
+  font-weight: bold;
+}
+
+%dl.schedule dd.speaker span.name,
+%p.speaker span.name {
+%  font-style: italic;
+%}
+
+%dl.schedule dd.abstract {
+%  margin: 1em 0;
+%}
+
+ul.names {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+ul.names li {
+  padding-left: 1em;
+  text-indent: -.7em;
+  margin-bottom: .3em;
+}
+
+ul.names li:before {
+  content: "• ";
+  color: bLack;
+}
+
+ul.names span.name {
+  font-weight: bold;
+}
+
+ul.names span.name a {
+  text-decoration: none;
+}
+
+ul.names span.name a:hover {
+  text-decoration: underline;
+}
+
+ul#logos {
+  list-style-type: none;
+  text-align: center;
+}
+
+ul#logos li {
+  margin: 0 10px;
+  display: inline;
+}
+
+<style>
+a:link {
+  color: gray;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: red;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:active {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+</style> 

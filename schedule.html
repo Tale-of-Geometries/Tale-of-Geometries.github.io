@@ -1,0 +1,54 @@
+---
+layout: default
+permalink: /schedule
+---
+
+
+<!--
+<p>A <a href="schedule.pdf">printable version</a> of the schedule.
+-->
+
+<p>The schedule is given in Antwerp's local time zone, so GMT+2.
+
+<p><a href="https://gather.town/app/ImE93eC26HQQSToG/ncshapes">Link to <strong>Gather.Town</strong></a>
+
+{% for day in site.data.schedule %}
+<h3>{{ day.date }}</h3>
+<dl class="schedule">
+  {% for slot in day.slots %}
+    <dt>{{ slot.time }}
+    {% if slot.talk %}
+      {% assign talk = site.data.talks[slot.talk] %}
+      {% assign speaker = site.data.speakers[slot.talk] %}
+
+      {% if slot.talk == "history" %}
+        <dd class="title">Noncommutative algebraic geometry in Antwerp
+        <dd class="speaker"><span class="name"></span> ()
+      {% else %}
+        {% if site.data.talks[slot.talk] %}
+          <dd class="title">
+            <a href="{{ site.baseurl }}/abstracts#{{ slot.talk }}">{{ talk.title }}</a>
+            {% if speaker.online %}<span style="font-weight: normal">(remote)</span>{% endif %}
+          </dd>
+        {% else %}
+          <dd>to be determined
+            {% if speaker.online %}(remote){% endif %}
+          </dd>
+        {% endif %}
+
+        <dd class="speaker"><span class="name">{{ speaker.name }}</span> (<span class="affiliation">{{ speaker.affiliation }}</span>)
+          {% if talk.notes %}<br><a href="/assets/{{ talk.notes }}">notes</a>{% endif %}
+          {% if talk.video %}<br><a href="{{ talk.video }}">video</a>{% endif %}
+        </dd>
+      {% endif %}
+    {% elsif slot.other %}
+      <dd>{{ slot.other }}
+    {% else %}
+      <dd><em>to be determined</em></dd>
+    {% endif %}
+  {% endfor %}
+</dl>
+<hr>
+
+{% endfor %}
+

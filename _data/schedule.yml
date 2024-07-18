@@ -1,0 +1,63 @@
+- date: Monday, September 12
+  slots:
+    [
+      { time: "08:30&ndash;10:00", other: "registration" },
+      { time: "10:00&ndash;10:50", talk: neeman },
+      { time: "11:00&ndash;11:30", other: "break" },
+      { time: "11:30&ndash;12:20", talk: tabuada },
+      { time: "12:20&ndash;14:00", other: "lunch" },
+      { time: "14:00&ndash;14:50", talk: kapranov },
+      { time: "15:00&ndash;15:30", other: "break" },
+      { time: "15:30&ndash;16:20", talk: halpernleistner },
+      { time: "17:00&ndash;19:30", other: "reception" },
+    ]
+
+- date: Tuesday, September 13
+  slots:
+    [
+      { time: "09:00&ndash;09:50", talk: tsygan },
+      { time: "10:00&ndash;10:30", other: "break" },
+      { time: "10:30&ndash;11:20", talk: stroppel },
+      { time: "11:30&ndash;12:20", talk: kuznetsov },
+      { time: "12:20&ndash;14:00", other: "lunch" },
+      { time: "14:00&ndash;14:50", talk: perry },
+      { time: "15:00&ndash;15:30", other: "break" },
+      { time: "15:30&ndash;16:20", talk: gualtieri },
+      { time: "16:30&ndash;17:20", talk: rizzardo },
+    ]
+
+- date: Wednesday, September 14
+  slots:
+    [
+      { time: "09:00&ndash;09:50", talk: calaque },
+      { time: "10:00&ndash;10:30", other: "break" },
+      { time: "10:30&ndash;11:20", talk: sierra },
+      { time: "11:30&ndash;12:20", talk: stafford },
+      { time: "19:00&ndash;...", other: "conference dinner" },
+    ]
+
+- date: Thursday, September 15
+  slots:
+    [
+      { time: "09:00&ndash;09:50", talk: wemyss },
+      { time: "10:00&ndash;10:30", other: "break" },
+      { time: "10:30&ndash;11:20", talk: polishchuk },
+      { time: "11:30&ndash;12:20", talk: padurariu },
+      { time: "12:20&ndash;14:00", other: "lunch" },
+      { time: "14:00&ndash;14:50", talk: auroux },
+      { time: "15:00&ndash;15:30", other: "break" },
+      { time: "15:30&ndash;16:20", talk: taelman },
+      { time: "16:30&ndash;17:20", talk: keller },
+    ]
+
+- date: Friday, September 16
+  slots:
+    [
+      { time: "09:00&ndash;09:50", talk: bezrukavnikov },
+      { time: "10:00&ndash;10:30", other: "break" },
+      { time: "10:30&ndash;11:20", talk: vezzosi },
+      { time: "11:30&ndash;12:20", talk: gasparim },
+      { time: "12:20&ndash;14:00", other: "lunch" },
+      { time: "14:00&ndash;14:50", talk: kaledin },
+      { time: "15:00&ndash;16:00", other: "drinks" },
+    ]
