@@ -16,10 +16,13 @@ div#mountain {
   background-color: #ffffff;
   background-image: url("../kite.jpg");
   background-repeat: no-repeat;
-  background-size: 50%;
+  background-size: 70%;
   background-position: top right;
   background-attachment: fixed;
 }
+
+
+
 
 div#content {
   max-width: 800px;
