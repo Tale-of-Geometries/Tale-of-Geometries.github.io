@@ -31,7 +31,7 @@ div#content {
 }
 
 a {
-  color: rgb(20, 153, 84);
+  color: black;
 }
 
 hr {
@@ -132,7 +132,7 @@ ul.names li:before {
 
 ul.names span.name {
   font-weight: bold;
-  color: rgb(20, 153, 84);
+  color: rgba(20, 153, 84,1);
 }
 
 ul.names span.name a {
