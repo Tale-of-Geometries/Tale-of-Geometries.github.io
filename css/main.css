@@ -85,6 +85,10 @@ h3 {
   color: black;
 }
 
+h4:hover {
+  color: red;
+}
+
 blockquote {
   margin: 0;
 }
