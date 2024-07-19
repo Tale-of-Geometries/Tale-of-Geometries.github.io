@@ -17,7 +17,7 @@ div#mountain {
   background-image: url("../kite.jpg");
   background-repeat: no-repeat;
   background-size: 41%;
-  background-position: center;
+  background-position:  top right;
   background-attachment: fixed;
 }
 
@@ -58,6 +58,7 @@ nav a {
 
 nav li:hover a {
   text-decoration: none;
+  color; black;
 }
 
 nav ul {
@@ -167,11 +168,12 @@ ul.nameso span.name {
 
 ul.nameso span.name a {
   text-decoration: none;
-  color: black;
+  color: rgba(20, 153, 84,1);
 }
 
 ul.nameso span.name a:hover {
   text-decoration: none;
+  color: red;
 }
 
 ul#logos {
