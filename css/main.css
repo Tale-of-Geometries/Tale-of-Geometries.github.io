@@ -180,6 +180,20 @@ ul.nameso span.name a:hover {
   color: red;
 }
 
+ul.nameh {
+  font-weight: normal;
+}
+
+ul.nameh a {
+  text-decoration: underline;
+  color: rgba(20, 153, 84,1);
+}
+
+ul.nameh  a:hover {
+  text-decoration: none;
+  color: black;
+}
+
 ul#logos {
   list-style-type: none;
   text-align: center;
