@@ -88,6 +88,9 @@ h3 {
 #here:hover {
   color: black;
 }
+#here:link {
+  color:black;
+}
 
 blockquote {
   margin: 0;
