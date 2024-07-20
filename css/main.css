@@ -192,9 +192,9 @@ ul#logos li {
 
 <style>
 a:link {
-  color: gray;
+  color: black;
   background-color: transparent;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 a:visited {
