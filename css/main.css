@@ -16,7 +16,7 @@ div#mountain {
   background-color: #ffffff;
   background-image: url("../kite2.jpg");
   background-repeat: no-repeat;
-  background-size: 41%;
+  background-size: contain;
   background-position:  top right;
   background-attachment: scroll;
 }
