@@ -12,11 +12,11 @@ div#mountain {
   height: 100%;
   width: 100%;
   z-index: -10;
-  opacity: 0.37;
+  opacity: 0.43;
   background-color: #ffffff;
   background-image: url("../kite2.jpg");
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 41%;
   background-position:  top right;
   background-attachment: fixed;
 }
