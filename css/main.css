@@ -18,7 +18,7 @@ div#mountain {
   background-repeat: no-repeat;
   background-size: contain;
   background-position:  top right;
-  background-attachment: scroll;
+  background-attachment: fixed;
 }
 
 
