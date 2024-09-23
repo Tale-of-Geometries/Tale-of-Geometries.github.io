@@ -3,10 +3,6 @@ abdelgadir:
   affiliation: Loughborough University
   website: https://www.lboro.ac.uk/departments/maths/staff/tarig-abdelgadir/
 
-briggs:
-  name: Ben Briggs
-  affiliation: Imperial college London
-  website: https://www.math.utah.edu/~briggs/
 
 
 dell:
@@ -33,6 +29,11 @@ jindal:
   name: Shivang Jindal
   affiliation: University of Edinburgh
   website: https://sites.google.com/view/jindalshiv/
+
+kalck:
+  name: Martin Kalck
+  affiliation: University of Graz
+  website: https://imsc.uni-graz.at/kalck/
 
 lahoz:
   name: Martí Lahoz
