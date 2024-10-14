@@ -1,0 +1,27 @@
+- date: Monday, October 28th
+  slots:
+    [
+      { time: "10:00&ndash;10:45", talk: lahoz },
+      { time: "11:15&ndash;12:00", talk: dell },
+      { time: "14:00&ndash;14:45", talk: abdelgadir },
+      { time: "15:15&ndash;16:00", talk: martinelli },
+      { time: "16:15&ndash;17:45", talk: 5-minute talks },
+      { time: "18:00&ndash;20:00", talk: reception },
+    ]
+
+- date: Tuesday, October 29th
+  slots:
+    [
+      { time: "10:00&ndash;10:45", talk: eberhardt },
+      { time: "11:15&ndash;12:00", talk: jindal },
+      { time: "14:00&ndash;14:45", talk: kalck },
+      { time: "15:15&ndash;16:00", talk: gratz },
+    ]
+
+- date: Wednesday, October 30th
+  slots:
+    [
+      { time: "10:00&ndash;10:45", talk: pertusi },
+      { time: "11:15&ndash;12:00", talk: mertens },
+      { time: "12:15&ndash;13:00", talk: gallauer },
+    ]

@@ -32,6 +32,37 @@ layout: default
 <p>Please register <a class="one" href="https://forms.gle/VPiZezaGS3CWcW2t5">here. For financial support, please apply by September 1. </a>
   
 
+<h2>Schedule</h2>
+{% for day in site.data.schedule %}
+<h3>{{ day.date }}</h3>
+<dl class="schedule">
+  {% for slot in day.slots %}
+    <dt>{{ slot.time }}
+    {% if slot.talk %}
+      {% assign talk = site.data.talks[slot.talk] %}
+      {% assign speaker = site.data.speakers[slot.talk] %}
+
+      {% if site.data.talks[slot.talk] %}
+        <dd class="title">
+          <a href="{{ site.baseurl }}/abstracts#{{ slot.talk }}">{{ talk.title }}</a>
+          {% if talk.speaker != "yekutieli" %}<span style="font-weight: normal">(<a href="{{ site.baseurl }}/notes/{{ talk.speaker }}.pdf">notes</a>){% endif %}
+        </dd>
+      {% else %}
+        <dd>to be determined</dd>
+      {% endif %}
+
+      <dd class="speaker"><span class="name">{{ speaker.name }}</span> (<span class="affiliation">{{ speaker.affiliation }}</span>)
+      {% if talk.speaker == "wemyss" %}(<a href="wemyss.pdf">slides</a>){% endif %}
+      {% if talk.speaker == "yekutieli" %}(<a href="http://www.math.bgu.ac.il/~amyekut/lectures/WPR-stable/notes-v2.pdf">slides</a>){% endif %}
+      </dd>
+    {% elsif slot.other %}
+      <dd>{{ slot.other }}
+    {% else %}
+      <dd><em>to be determined</em></dd>
+    {% endif %}
+  {% endfor %}
+</dl>
+<hr>
 
 <h2>Organisation</h2>
 <p>If you have any questions please contact the organisers.
