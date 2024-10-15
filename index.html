@@ -48,10 +48,9 @@ layout: default
       {% else %}
         <dd>5 minute talks</dd>
       {% endif %}
-      (<dd class="speaker"><span class="name">{{ speaker.name }}</span>) 
+      (<span class="name">{{ speaker.name }}</span>) 
       {% if talk.speaker == "wemyss" %}(<a href="wemyss.pdf">slides</a>){% endif %}
       {% if talk.speaker == "yekutieli" %}(<a href="http://www.math.bgu.ac.il/~amyekut/lectures/WPR-stable/notes-v2.pdf">slides</a>){% endif %}
-      </dd>
     {% elsif slot.other %}
       <dd>{{ slot.other }}
     {% else %}
