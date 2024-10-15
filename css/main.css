@@ -270,7 +270,7 @@ a.one:link {color:black; text-decoration: none;}
 a.one:visited {color:black;}
 a.one:hover {color:black;}
 
-a.two:link {color:rgba(20, 153, 84,1); text-decoration: none;}
+a.two:link {text-decoration: none; color:rgba(20, 153, 84,1);}
 a.two:visited {color:rgba(20, 153, 84,1);}
-a.two:hover {color:rgb(228, 49, 43);}
+a.two:hover {text-decoration: none; color:rgb(228, 49, 43);}
 </style> 
