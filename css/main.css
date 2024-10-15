@@ -129,7 +129,7 @@ dl.schedule dd.title a:hover {
 }
 
 dl.schedule span.title a {
-  text-decoration: none;
+  font-weight: bold;
   color: rgba(20, 153, 84,1);
 }
 
