@@ -34,7 +34,7 @@ layout: default
 
 <h2>Schedule</h2>
 {% for day in site.data.schedule %}
-<h5>{{ day.date }}</h5>
+<h4>{{ day.date }}</h4>
 <dl class="schedule">
   {% for slot in day.slots %}
     <dt>{{ slot.time }}
@@ -43,7 +43,7 @@ layout: default
       {% assign speaker = site.data.speakers[slot.talk] %}
 
       {% if site.data.talks[slot.talk] %}
-        <dd><span class="name">
+        <dd><span class="title">
           <a href="{{ site.baseurl }}/abstracts#{{ slot.talk }}">{{ talk.title }}</a>
         </span>
           (<span class="name">{{ speaker.name }}</span>) 
