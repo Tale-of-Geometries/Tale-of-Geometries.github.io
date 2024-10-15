@@ -114,7 +114,7 @@ dl.schedule dt {
   height: 0;
   text-align: right;
   width: 7em;
-  margin: 0pt;
+  margin-left: 0em;
 }
 
 dl.schedule dd {
