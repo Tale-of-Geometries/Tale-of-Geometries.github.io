@@ -43,7 +43,9 @@ layout: default
       {% assign speaker = site.data.speakers[slot.talk] %}
       {% if site.data.talks[slot.talk] %}
         <dd class="title">
+                <span>
           <a href="{{ site.baseurl }}/abstracts#{{ slot.talk }}">{{ talk.title }}</a>
+                </span>
           (<span class="name">{{ speaker.name }}</span>) 
         </dd>
       {% else %}
