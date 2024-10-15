@@ -125,6 +125,13 @@ dl.schedule dd.title a:link {
   color: rgba(20, 153, 84,1);
 }
 
+
+dl.schedule dd.title a:hover {
+  text-decoration: none;
+  color: red;
+}
+
+
 dl.schedule dd.speaker span.name,
 p.speaker span.name {
   font-style: italic;
