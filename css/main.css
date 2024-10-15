@@ -120,6 +120,11 @@ dl.schedule dd.title a {
   color: rgba(20, 153, 84,1);
 }
 
+dl.schedule dd.title a:link {
+  text-decoration: none;
+  color: rgba(20, 153, 84,1);
+}
+
 dl.schedule dd.speaker span.name,
 p.speaker span.name {
   font-style: italic;
