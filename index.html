@@ -45,10 +45,9 @@ layout: default
       {% if site.data.talks[slot.talk] %}
         <dd class="title">
           <a href="{{ site.baseurl }}/abstracts#{{ slot.talk }}">{{ talk.title }}</a>
-          {% if talk.speaker != "yekutieli" %}<span style="font-weight: normal">(<a href="{{ site.baseurl }}/notes/{{ talk.speaker }}.pdf">notes</a>){% endif %}
         </dd>
       {% else %}
-        <dd>to be determined</dd>
+        <dd>5 minute talks</dd>
       {% endif %}
 
       <dd class="speaker"><span class="name">{{ speaker.name }}</span> (<span class="affiliation">{{ speaker.affiliation }}</span>)
