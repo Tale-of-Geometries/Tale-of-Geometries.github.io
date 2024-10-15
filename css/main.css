@@ -112,6 +112,7 @@ dl.schedule dd {
 
 dl.schedule dd.title {
   font-weight: bold;
+  color: rgba(20, 153, 84,1);
 }
 
 dl.schedule dd.speaker span.name,
