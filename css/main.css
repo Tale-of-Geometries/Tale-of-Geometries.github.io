@@ -128,6 +128,15 @@ dl.schedule dd.title a:hover {
   color: rgb(228, 49, 43);
 }
 
+dl.schedule span.title a {
+  text-decoration: none;
+  color: rgba(20, 153, 84,1);
+}
+
+dl.schedule span.title a:hover {
+  text-decoration: none;
+  color: rgb(228, 49, 43);
+}
 
 dl.schedule dd.speaker span.name,
 p.speaker span.name {
