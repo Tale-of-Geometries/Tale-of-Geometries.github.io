@@ -57,7 +57,7 @@ kalck:
     <p>The thick subcategories of a triangulated category form a lattice. These lattices have been actively studied for about 40 years in fields ranging from algebraic topology and algebraic geometry to representation theory.
     <p>In many cases, it seems hard to give explicit and complete descriptions of these lattices. Instead of attempting to understand the whole structure, we look at a rather coarse invariant of these lattices and hence of the corresponding triangulated category. Namely, we study the lengths of maximal chains in this lattice. We collect all integers that arise as lengths of maximal chains for a fixed triangulated category T into a set called the "lengths spectrum of T".
     <p>We will illustrate this concept with examples from algebraic geometry and representation theory and also discuss open questions.   
-    <p>This is based on joint work with Yuki Hirano and Genki Ouchi, cf. arxiv:2404.07583.  
+    <p>This is based on joint work with Yuki Hirano and Genki Ouchi.  
 
 lahoz:
   title: 
@@ -68,7 +68,7 @@ martinelli:
   title: Gale duality, blowups and moduli spaces
   speaker: martinelli
   abstract: >
-    <p>The Gale correspondence provides a duality between sets of n points in projective spaces P^s and P^r when n=r+s+2. For small values of s, this duality has a remarkable geometric manifestation: the blowup of P^r at n
+    <p>The Gale correspondence provides a duality between sets of n points in projective spaces P^s and P^r when n=r+s+2. For small values of s, this duality has a remarkable geometric manifestation, the blowup of P^r at n
 points can be realized as a moduli space of vector bundles on the blowup
 of P^s at the Gale dual points. We explore this realization to describe
 the birational geometry of blowups of projective spaces at points in
