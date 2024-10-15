@@ -5,8 +5,8 @@
       { time: "11:15&ndash;12:00", talk: dell },
       { time: "14:00&ndash;14:45", talk: abdelgadir },
       { time: "15:15&ndash;16:00", talk: martinelli },
-      { time: "16:15&ndash;17:45", talk: 5-minute talks },
-      { time: "18:00&ndash;20:00", other: reception },
+      { time: "16:15&ndash;17:15", talk: 5-minute talks },
+      { time: "17:30&ndash;20:00", other: reception },
     ]
 
 - date: Tuesday, October 29th
