@@ -65,11 +65,12 @@ nav ul {
   padding: 0;
 }
 
-nav dl {
+dl {
   padding: 0;
+  margin: 0px;
 }
 
-nav dt {
+nav dl {
   padding: 0;
   margin: 0px;
 }
