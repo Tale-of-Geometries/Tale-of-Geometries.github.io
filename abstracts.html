@@ -18,7 +18,7 @@ layout: default
     <h4 class="title">{% if talk.title %} {{ talk.title }} {% else %} <i>to be announced</i> {% endif %}</h4>
 
     {% assign speaker = site.data.speakers[talk.speaker] %}
-    <p class="speaker"><span class="name">{{ speaker.name }}</span> (<span class="affiliation">{{ speaker.affiliation }}</span>)
+    <p><span class="name">{{ speaker.name }}</span> 
 
     {% if talk.abstract %}
       <blockquote>{{ talk.abstract }}</blockquote>
