@@ -23,7 +23,7 @@ layout: default
   <section id="{{ talk.speaker }}">
     <span style="color:rgba(20, 153, 84,1);font-weight:bold">{% if talk.title %} {{ talk.title }}  {% endif %}</span> 
     {% assign speaker = site.data.speakers[talk.speaker] %}
-    (<span class="name">{{ speaker.name }}</span>) 
+    (<span class="name">{% if talk.title %} {{ speaker.name }} {% endif %}</span>) 
 
     {% if talk.abstract %}
       <blockquote>{{ talk.abstract }}</blockquote>
