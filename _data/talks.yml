@@ -15,11 +15,7 @@ eberhardt:
   title: Sheaves on Stratified Spaces
   speaker: eberhardt
   abstract: >
-    <p>In this talk, we study constructible sheaves on spaces stratified via a Gm-action.
-We show how to understand the gluing data of these categories geometrically using hyperbolic localisation and the Drinfeld-Gaitsgory interpolation space.
-In particular, we apply this framework to flag varieties. Here, we explain how the gluing data can be understood explicitly in terms of a new multiplicative structure on Kazhdan-Lusztig-Deodhar varieties.
-    <p>Lastly, we discuss applications in geometric representation theory.
-This is joint work with Catharina Stroppel.
+    <p>In this talk, we study constructible sheaves on spaces stratified via a Gm-action. We show how to understand the gluing data of these categories geometrically using hyperbolic localisation and the Drinfeld-Gaitsgory interpolation space. In particular, we apply this framework to flag varieties. Here, we explain how the gluing data can be understood explicitly in terms of a new multiplicative structure on Kazhdan-Lusztig-Deodhar varieties. <p>Lastly, we discuss applications in geometric representation theory. This is joint work with Catharina Stroppel.
 
 gallauer:
   title: A tale of three geometries
@@ -31,8 +27,7 @@ gratz:
   title: Metric completions of discrete cluster categories
   speaker: gratz
   abstract: >
-    <p>Methods for generating new triangulated categories from old are notoriously few and far between. Neeman’s recent innovation  allows one to complete with respect to suitable metrics on a triangulated category to construct a new triangulated category.
-    <p>This promises the opportunity to construct a plethora of new examples of triangulated categories. However, up to now, explicit computations have all taken place within an existing ambient triangulated category. In this talk, based on joint work with Charley Cummings, we present a cluster-flavoured example where the computation can be done without this crutch. More specifically, we investigate discrete cluster categories of type A and show that, with a suitable choice of metric, the metric completion of such a category mirrors a topological completion of its combinatorial model.
+    <p>Methods for generating new triangulated categories from old are notoriously few and far between. Neeman’s recent innovation  allows one to complete with respect to suitable metrics on a triangulated category to construct a new triangulated category.    <p>This promises the opportunity to construct a plethora of new examples of triangulated categories. However, up to now, explicit computations have all taken place within an existing ambient triangulated category. In this talk, based on joint work with Charley Cummings, we present a cluster-flavoured example where the computation can be done without this crutch. More specifically, we investigate discrete cluster categories of type A and show that, with a suitable choice of metric, the metric completion of such a category mirrors a topological completion of its combinatorial model.
 
 jindal:
   title:  Quantum groups from cohomological Donaldson-Thomas theory
@@ -44,10 +39,7 @@ kalck:
   title: 
   speaker: kalck
   abstract: >
-    <p>The thick subcategories of a triangulated category form a lattice. These lattices have been actively studied for about 40 years in fields ranging from algebraic topology and algebraic geometry to representation theory.
-    <p>In many cases, it seems hard to give explicit and complete descriptions of these lattices. Instead of attempting to understand the whole structure, we look at a rather coarse invariant of these lattices and hence of the corresponding triangulated category. Namely, we study the lengths of maximal chains in this lattice. We collect all integers that arise as lengths of maximal chains for a fixed triangulated category T into a set called the "lengths spectrum of T".
-    <p>We will illustrate this concept with examples from algebraic geometry and representation theory and also discuss open questions.   
-    <p>This is based on joint work with Yuki Hirano and Genki Ouchi.  
+    <p>The thick subcategories of a triangulated category form a lattice. These lattices have been actively studied for about 40 years in fields ranging from algebraic topology and algebraic geometry to representation theory.    <p>In many cases, it seems hard to give explicit and complete descriptions of these lattices. Instead of attempting to understand the whole structure, we look at a rather coarse invariant of these lattices and hence of the corresponding triangulated category. Namely, we study the lengths of maximal chains in this lattice. We collect all integers that arise as lengths of maximal chains for a fixed triangulated category T into a set called the "lengths spectrum of T".  <p>We will illustrate this concept with examples from algebraic geometry and representation theory and also discuss open questions.       <p>This is based on joint work with Yuki Hirano and Genki Ouchi.  
 
 lahoz:
   title: 
@@ -58,24 +50,16 @@ martinelli:
   title: Gale duality, blowups and moduli spaces
   speaker: martinelli
   abstract: >
-    <p>The Gale correspondence provides a duality between sets of n points in projective spaces P^s and P^r when n=r+s+2. For small values of s, this duality has a remarkable geometric manifestation, the blowup of P^r at n
-points can be realized as a moduli space of vector bundles on the blowup
-of P^s at the Gale dual points. We explore this realization to describe
-the birational geometry of blowups of projective spaces at points in
-very general position. We will focus in particular on the cases where
-the blowup fails to be a Mori Dream Space, reporting on a joint work in progress
-with Carolina Araujo, Ana-Maria Castravet and Inder Kaur.
+    <p>The Gale correspondence provides a duality between sets of n points in projective spaces P^s and P^r when n=r+s+2. For small values of s, this duality has a remarkable geometric manifestation, the blowup of P^r at n points can be realized as a moduli space of vector bundles on the blowup of P^s at the Gale dual points. We explore this realization to describe the birational geometry of blowups of projective spaces at points in very general position. We will focus in particular on the cases where the blowup fails to be a Mori Dream Space, reporting on a joint work in progress with Carolina Araujo, Ana-Maria Castravet and Inder Kaur.
 
 mertens:
   title: The dg-nerve via necklaces
   speaker: mertens
   abstract: >
-    <p>Dg-categories play a prominent role in algebraic geometry as models for non-commutative spaces, following the work Van den Bergh and others. They are famously related to the theory of infinity-categories via Lurie's dg-nerve, which associates to every dg-category a quasi-category. In joint work with Wendy Lowen, we introduced "quasi-categories in vectorspaces" as a linearized version of the classical theory. It turns out that there is an equivalence between non-negatively graded dg-categories and quasi-categories in vectorspaces equipped with some extra structure.
-    <p>In this talk, I will recall the dg-nerve and show how it can be described by means of so-called necklaces (due to Dugger and Spivak). A necklace is a sequence of simplices glued at their endpoints. This description allows the dg-nerve to be lifted to a linear version landing in quasi-categories in vectorspaces. In fact, in the same way, one can describe many familiar nerves via necklaces, such as the homotopy coherent and cubical nerves. As an application, I will give a novel and simple expression for the left-adjoint of the dg-nerve.
+    <p>Dg-categories play a prominent role in algebraic geometry as models for non-commutative spaces, following the work Van den Bergh and others. They are famously related to the theory of infinity-categories via Lurie's dg-nerve, which associates to every dg-category a quasi-category. In joint work with Wendy Lowen, we introduced "quasi-categories in vectorspaces" as a linearized version of the classical theory. It turns out that there is an equivalence between non-negatively graded dg-categories and quasi-categories in vectorspaces equipped with some extra structure. <p>In this talk, I will recall the dg-nerve and show how it can be described by means of so-called necklaces (due to Dugger and Spivak). A necklace is a sequence of simplices glued at their endpoints. This description allows the dg-nerve to be lifted to a linear version landing in quasi-categories in vectorspaces. In fact, in the same way, one can describe many familiar nerves via necklaces, such as the homotopy coherent and cubical nerves. As an application, I will give a novel and simple expression for the left-adjoint of the dg-nerve.
 
 pertusi:
   title: Higher dimensional moduli spaces on Kuznetsov components of Fano threefolds
   speaker: pertusi
   abstract: >
-    <p>Stability conditions on the Kuznetsov component of a Fano threefold of Picard rank 1, index 1 or 2 have been constructed by Bayer, Lahoz, Macrì and Stellari, making possible to study moduli spaces of semistable objects and their geometric properties. Although small dimensional examples of moduli spaces are well-understood and are related to classical moduli spaces of stable sheaves on the threefold, the higher dimensional ones are more mysterious.
-    <p>In this talk, we will show a non-emptiness result for these moduli spaces. Then we will focus on the case of cubic threefolds. When the dimension of the moduli space with respect to a primitive numerical class is larger than 5, we show that the Abel-Jacobi map from the moduli space to the intermediate Jacobian is surjective with connected fibers, and its general fiber is a smooth Fano variety with primitive canonical divisor. When the dimension is sufficiently large, we further show that the general fibers are stably birational to each other. This is a joint work with Chunyi Li, Yinbang Lin and Xiaolei Zhao.
+    <p>Stability conditions on the Kuznetsov component of a Fano threefold of Picard rank 1, index 1 or 2 have been constructed by Bayer, Lahoz, Macrì and Stellari, making possible to study moduli spaces of semistable objects and their geometric properties. Although small dimensional examples of moduli spaces are well-understood and are related to classical moduli spaces of stable sheaves on the threefold, the higher dimensional ones are more mysterious. <p>In this talk, we will show a non-emptiness result for these moduli spaces. Then we will focus on the case of cubic threefolds. When the dimension of the moduli space with respect to a primitive numerical class is larger than 5, we show that the Abel-Jacobi map from the moduli space to the intermediate Jacobian is surjective with connected fibers, and its general fiber is a smooth Fano variety with primitive canonical divisor. When the dimension is sufficiently large, we further show that the general fibers are stably birational to each other. This is a joint work with Chunyi Li, Yinbang Lin and Xiaolei Zhao.
