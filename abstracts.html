@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<h2>Abstracts</h2>
+
 <ul class="names">
 {% for talk_id in site.data.talks %}
   {% assign talk = talk_id[1] %}
@@ -11,7 +11,9 @@ layout: default
 {% endfor %}
 </ul>
 
-<p>
+
+<h2>Abstracts</h2>
+
 
 {% for talk_id in site.data.talks %}
 {% assign talk = talk_id[1] %}
