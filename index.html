@@ -41,7 +41,6 @@ layout: default
     {% if slot.talk %}
       {% assign talk = site.data.talks[slot.talk] %}
       {% assign speaker = site.data.speakers[slot.talk] %}
-
       {% if site.data.talks[slot.talk] %}
         <dd class="title">
           <a href="{{ site.baseurl }}/abstracts#{{ slot.talk }}">{{ talk.title }}</a>
@@ -49,8 +48,7 @@ layout: default
       {% else %}
         <dd>5 minute talks</dd>
       {% endif %}
-
-      <dd class="speaker"><span class="name">{{ speaker.name }}</span> 
+      (<dd class="speaker"><span class="name">{{ speaker.name }}</span>) 
       {% if talk.speaker == "wemyss" %}(<a href="wemyss.pdf">slides</a>){% endif %}
       {% if talk.speaker == "yekutieli" %}(<a href="http://www.math.bgu.ac.il/~amyekut/lectures/WPR-stable/notes-v2.pdf">slides</a>){% endif %}
       </dd>
