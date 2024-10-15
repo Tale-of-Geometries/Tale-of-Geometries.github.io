@@ -50,7 +50,7 @@ layout: default
         <dd>5 minute talks</dd>
       {% endif %}
 
-      <dd class="speaker"><span class="name">{{ speaker.name }}</span> (<span class="affiliation">{{ speaker.affiliation }}</span>)
+      <dd class="speaker"><span class="name">{{ speaker.name }}</span> <span class="affiliation">{{ speaker.affiliation }}</span>
       {% if talk.speaker == "wemyss" %}(<a href="wemyss.pdf">slides</a>){% endif %}
       {% if talk.speaker == "yekutieli" %}(<a href="http://www.math.bgu.ac.il/~amyekut/lectures/WPR-stable/notes-v2.pdf">slides</a>){% endif %}
       </dd>
