@@ -125,7 +125,7 @@ dl.schedule dd.title a {
 
 dl.schedule dd.title a:hover {
   text-decoration: none;
-  color: red;
+  color: rgb(228, 49, 43);
 }
 
 
@@ -164,7 +164,7 @@ ul.names span.name a {
 
 ul.names span.name a:hover {
   text-decoration: none;
-  color: red;
+  color: rgb(228, 49, 43);
 }
 
 ul.nameso {
@@ -196,7 +196,7 @@ ul.nameso span.name a {
 
 ul.nameso span.name a:hover {
   text-decoration: none;
-  color: red;
+  color: rgb(228, 49, 43);
 }
 
 ul.nameh {
