@@ -7,7 +7,7 @@ layout: default
 {% for talk_id in site.data.talks %}
   {% assign talk = talk_id[1] %}
   {% assign speaker = site.data.speakers[talk.speaker] %}
-  <li>{{ speaker.name }}: <a href="#{{ talk.speaker }}">{{ talk.title }}</a>
+  <li>{{ speaker.name }}: <a class="two" href="#{{ talk.speaker }}">{{ talk.title }}</a>
 {% endfor %}
 </ul>
 <hr>
@@ -27,5 +27,4 @@ layout: default
     {% if talk.notes %}<a href="/assets/{{ talk.notes }}">notes</a>{% endif %}
     {% if talk.video %}<br><a href="{{ talk.video }}">video</a>{% endif %}
   </section>
-  <hr>
 {% endfor %}
