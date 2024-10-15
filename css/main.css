@@ -65,6 +65,10 @@ nav ul {
   padding: 0;
 }
 
+nav dl {
+  padding: 0;
+}
+
 nav li {
   display: inline-block;
   background-color: rgba(120,120,120,0.2);
