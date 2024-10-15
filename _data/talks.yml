@@ -9,16 +9,7 @@ dell:
   title: Categorical Torelli for cyclic covers
   speaker: dell
   abstract: >
-    <p>Since any Fano variety can be recovered from its derived
-category up to isomorphism, we ask whether less information determines
-the variety - this is called a categorical Torelli question. In this
-talk, we consider an n-fold cover X → Y ramified in a divisor Z. The
-cyclic group of order n acts on X. We study how a certain subcategory of
-Db(X) (the Kuznetsov component) behaves under this group action. We
-combine this with techniques from topological K-theory and Hodge theory
-to prove that this subcategory determines X for two new classes of Fano
-threefolds which arise as double covers of (weighted) projective spaces.
-This is joint work with Augustinas Jacovskis and Franco Rota.
+    <p>Since any Fano variety can be recovered from its derived category up to isomorphism, we ask whether less information determines the variety - this is called a categorical Torelli question. In this talk, we consider an n-fold cover X → Y ramified in a divisor Z. The cyclic group of order n acts on X. We study how a certain subcategory of Db(X) (the Kuznetsov component) behaves under this group action. We combine this with techniques from topological K-theory and Hodge theory to prove that this subcategory determines X for two new classes of Fano threefolds which arise as double covers of (weighted) projective spaces. This is joint work with Augustinas Jacovskis and Franco Rota.
 
 eberhardt:
   title: Sheaves on Stratified Spaces
