@@ -42,9 +42,10 @@ kalck:
     <p>The thick subcategories of a triangulated category form a lattice. These lattices have been actively studied for about 40 years in fields ranging from algebraic topology and algebraic geometry to representation theory.    <p>In many cases, it seems hard to give explicit and complete descriptions of these lattices. Instead of attempting to understand the whole structure, we look at a rather coarse invariant of these lattices and hence of the corresponding triangulated category. Namely, we study the lengths of maximal chains in this lattice. We collect all integers that arise as lengths of maximal chains for a fixed triangulated category T into a set called the "lengths spectrum of T".  <p>We will illustrate this concept with examples from algebraic geometry and representation theory and also discuss open questions.       <p>This is based on joint work with Yuki Hirano and Genki Ouchi.  
 
 lahoz:
-  title: 
+  title: Prym semicanonical pencils
   speaker: lahoz
   abstract: >
+    <p>In the moduli space of double étale covers of curves of genus g > 1, the locus of covers of curves with a semicanonical pencil (a theta-characteristic with two sections) is formed by two irreducible divisors distinguished by the parity of the dimension of a certain space of sections. I will explain the behavior of the Prym map on each of them, which is significantly different, and has a rich geometry in the low genus cases. At the end I will focus on the odd divisor and  on genera 5 and 6, which are especially interesting. This is joint work in collaboration with Joan Carles Naranjo, Andrés Rojas and Irene Spelta.
 
 martinelli:
   title: Gale duality, blowups and moduli spaces
